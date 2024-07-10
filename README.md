@@ -5,5 +5,6 @@ steps:
 2.Make a board component and add 9 box to it
 
 <h3><a href="https://github.com/vadlachary2002/tic_tak_toe_asmt">Live link</a></h3>
+https://tictaktoeasmt.netlify.app
 
 <h3>to check open index.html in build folder</h3>
